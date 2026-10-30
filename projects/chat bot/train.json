@@ -1,0 +1,62 @@
+[
+  {
+    "instruction": "Is the shop open on holidays?",
+    "input": "",
+    "output": "Only on festival days from 10 AM to 2 PM"
+  },
+  {
+    "instruction": "Which days are you closed?",
+    "input": "",
+    "output": "Sundays"
+  },
+  {
+    "instruction": "Is there parking?",
+    "input": "",
+    "output": "Yes free parking is available"
+  },
+  {
+    "instruction": "What is your name?",
+    "input": "",
+    "output": "I am the shop assistant."
+  },
+  {
+    "instruction": "Where is the office?",
+    "input": "",
+    "output": "Kozhikode"
+  },
+  {
+    "instruction": "Who is the owner?",
+    "input": "",
+    "output": "Mr Nair"
+  },
+  {
+    "instruction": "Do you have home delivery?",
+    "input": "",
+    "output": "Yes within 5 km"
+  },
+  {
+    "instruction": "Do you accept UPI?",
+    "input": "",
+    "output": "Yes we accept UPI"
+  },
+  {
+    "instruction": "Can I return a product?",
+    "input": "",
+    "output": "Yes within 7 days with the bill"
+  },
+  {
+    "instruction": "How can I order online?",
+    "input": "",
+    "output": "Use our website or call us"
+  },
+  {
+    "instruction": "What is the phone number?",
+    "input": "",
+    "output": "0495 123456"
+  },
+  {
+    "instruction": "Do you accept card payments?",
+    "input": "",
+    "output": "Yes we accept all cards"
+  }
+]

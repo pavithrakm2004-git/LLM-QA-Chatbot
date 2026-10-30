@@ -1,0 +1,7 @@
+question,correct_answer,model_answer,rating,comment,sources
+What are your timings?,9 AM to 5 PM,9 am to 5 pm,5,correct answer,
+What are your timings?,9 AM to 5 PM,i am the shop assistant.,1,"Wrong answer, did not give timings.",
+what is minimax?,,"Minimax is a zero-sum-game algorithm that assumes the opponent behaves optimally and will always perform the move that is worst for the agent. It is used to determine the value of a state, which is the optimal score attainable by the agent that controls that state.",4,"Correct and matches the textbook, but does not explain the steps","54, 54, 55, 51, 53"
+What is supervised learning?,,"Supervised learning algorithms have input data that corresponds to output data, and so deal with training a model to map inputs to outputs. In this class, the algorithms we’ll discuss will be limited to supervised learning tasks.",4,"Correct definition from the textbook, but copied an extra sentence about the class","153, 84, 153, 87, 87"
+what is rational agent?,,A rational agent is an entity that has goals or preferences and tries to perform a series of actions that yield the best/optimal expected outcome given these goals.,4,,"1, 130, 130, 130, 2"
+Who invented the telephone?,,"""The provided document does not contain enough information.""",5,,"194, 92, 49, 46, 194"

@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Do you have a website?",
+    "input": "",
+    "output": "Yes www.myshop.com"
+  },
+  {
+    "instruction": "Do you give discounts?",
+    "input": "",
+    "output": "Yes 10 percent for students"
+  },
+  {
+    "instruction": "What are your timings?",
+    "input": "",
+    "output": "9 AM to 5 PM"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "chat bot",
+  "welcome": "Hi! Ask me a question about the document.",
+  "server": "http://192.168.6.21:5000",
+  "show_sources": true
+}
