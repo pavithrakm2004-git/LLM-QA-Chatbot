@@ -89,10 +89,7 @@ The backend implements the RAG pipeline and handles document-based question answ
 | `faiss_section_cosine_index.bin` | FAISS vector index                  |
 | `test_document.pdf`              | Test document                       |
 
-## Frontend – Manasa Muraleedharan E
-
-The frontend provides the user interface for interacting with the chatbot.
-
+| Manasa Muraleedharan E | Frontend development, Streamlit web application, dataset preparation, human evaluation, metrics, deployment and backend API integration |
 ### Frontend Responsibilities
 
 - Provides a Streamlit-based chatbot interface.
@@ -100,12 +97,13 @@ The frontend provides the user interface for interacting with the chatbot.
 - Sends questions to the Flask backend through HTTP requests.
 - Receives generated answers from the backend.
 - Displays responses through the user interface.
-
 ### Frontend Technologies
 
 - Python
 - Streamlit
 - Requests
+- Pandas
+
 
 **Note:** The frontend source code is maintained separately by the frontend developer and should be added to this repository as part of the shared project.
 
@@ -226,3 +224,5 @@ The textbook is an externally authored resource used for testing. It is not crea
 ## Project Repository
 
 GitHub: [https://github.com/pavithrakm2004-git/LLM-QA-Chatbot](https://github.com/pavithrakm2004-git/LLM-QA-Chatbot)
+
+
