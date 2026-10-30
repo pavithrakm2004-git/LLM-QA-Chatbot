@@ -89,7 +89,7 @@ The backend implements the RAG pipeline and handles document-based question answ
 | `faiss_section_cosine_index.bin` | FAISS vector index                  |
 | `test_document.pdf`              | Test document                       |
 
-## Frontend – Manasa
+## Frontend – Manasa Muraleedharan E
 
 The frontend provides the user interface for interacting with the chatbot.
 
@@ -221,7 +221,7 @@ The textbook is an externally authored resource used for testing. It is not crea
 | Team Member  | Contribution                                                                                            |
 | ------------ | ------------------------------------------------------------------------------------------------------- |
 | Pavithra K M | Backend development, RAG pipeline, document processing, hybrid retrieval, Flask API and LLM integration |
-| Manasa       | Frontend development, Streamlit interface and backend API integration                                   |
+| Manasa Muraleedharan E       | Frontend development, Streamlit interface and backend API integration                                   |
 
 ## Project Repository
 
